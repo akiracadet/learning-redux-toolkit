@@ -1,7 +1,7 @@
+import TodoList from './features/todos/TodoList'
+
 export default function App() {
   return (
-    <main className="App">
-
-    </main>
+    <TodoList />
   )
 }
